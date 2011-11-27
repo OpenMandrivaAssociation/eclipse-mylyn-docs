@@ -8,7 +8,7 @@ Name: eclipse-mylyn-docs
 Summary: Eclipse Mylyn documentation tools
 Version: 3.5.1
 Group:	Development/Java
-Release: 1
+Release: 3
 License: EPL
 URL: http://www.eclipse.org/mylyn/docs/
 
