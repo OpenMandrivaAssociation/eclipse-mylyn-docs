@@ -10,7 +10,7 @@ Version: 3.5.1
 Group:	Development/Java
 Release: 3
 License: EPL
-URL: http://www.eclipse.org/mylyn/docs/
+URL: https://www.eclipse.org/mylyn/docs/
 
 # bash fetch-eclipse-mylyn-docs.sh
 Source0: eclipse-mylyn-docs-R_3_5_1-fetched-src.tar.bz2
